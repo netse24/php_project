@@ -1,0 +1,31 @@
+
+* {
+  box-sizing: border-box;
+}
+
+/* navbar  */
+nav{
+box-shadow: rgba(0,0, 0, 0.45) 0px 25px 20px -20px;
+}
+
+/* Cards show */
+.slideShow{
+  background-image: linear-gradient(90deg,#041826,#082336,#143954,#093351,#092F4A,#072840,#05253A);
+}   
+
+/* Register  */
+.register,
+.login{
+  background-color:#133954; box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
+
+.card-image{
+width: 227px;
+height: 290px;
+}
+
+.video iframe{
+width: 100%;
+height: 80vh;
+}
+
